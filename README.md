@@ -22,3 +22,18 @@ anti-clockwise)
 First you pick up and hold the toothpast with you left hand, then you use you right hand to open the toothpast by turning the cap anti-clockwise.
 Now that the toothpast is open you now grab the toothbrush with your right hand on the handle of the toothbrush. Now bring the toothbrush close to the head of the toothpast and squeeze the toothpast so that a fingernail sized toothpast is on the brush of the toothbrush.
 Now with the toothpast on the toothbrush you bring the toothbrush head inside your mouth and place it on you frontteeth so that the past on the brush is in contact with your tooth. Now you gently move you hand side to side while you maintain contact to your teeth with the brush head. While doing this now slowly move your hand around to hit all your upper and lower teeth. 
+
+
+##Give your thoughts on TDD
+
+**What was positive and good about using TDD?**
+You get fast feedback if your code works or not
+
+**What was annoying or difficult**
+You have to know enough about what you are coding so that you can write a test before making any real code.
+
+**What surprised you?**
+How easy it is to use once you understand how it works
+
+**Did TDD help you write some tests you wouldn't have thought of?**
+Not for these examples 
